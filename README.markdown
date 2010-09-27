@@ -145,6 +145,7 @@ If you're using Digg, be sure to submit your campaign's url to [Digg.com](http:/
 
 * Visit **yourapp.com/promote/widgets** to get a list of all default SoundCloud embed widgets. You can use this page when marketing your campaign: 'Go here to grab an embed code of the track being offered for social download.' 
 * Visit **yourapp.com/promote/tab** to get the basic code needed to create an FBML tab application used to market your promotion. For more info on creating FBML tab apps, [go here](http://github.com/soundcloud/soundcloud-fbml).
+* A "Free Download" button is added to the player embed via a customized 'buy' button which directs people to your campaign. More on that hack [here](http://blog.soundcloud.com/2010/06/25/buy-download-button/).
 
 # Copyright
 
