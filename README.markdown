@@ -132,6 +132,10 @@ You must connect the app to the SoundCloud account which owns the track you are 
 
 To do this, visit **yourapp.com/activate** and login with the appropriate SoundCloud account.
 
+### Submit URL to Digg
+
+If you're using Digg, be sure to submit your campaign's url to [Digg.com](http://digg.com) so the app has something to Digg.
+
 # Tips and Tricks
 
 Coming Soon...
