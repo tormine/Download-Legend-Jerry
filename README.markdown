@@ -59,7 +59,12 @@ You'll need to create applications for each of the social services you wish to u
 
 ### 4. Register a new Digg application
 
-Coming soon...
+1. Login to Digg
+2. [Go here](http://developers.digg.com/) and click `My Apps`
+3. Click `Create New App`
+4. Give your application a **Name** and **Description**
+5. Copy the **Api Key** and **Secret Key** to a text file for later.
+6. Click `Save App`
 
 # Download
 
