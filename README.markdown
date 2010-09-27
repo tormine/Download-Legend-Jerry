@@ -23,7 +23,7 @@ Windows: [Follow these instructions](http://wiki.rubyonrails.org/getting-started
 
 1. Make sure you're [signed up](http://soundcloud.com/signup) for SoundCloud and logged in.
 2. [Go here](http://soundcloud.com/you/apps/new), name your app, and click `Register`
-3. Copy the **Consumer Key** and **Consumer Secret** to a text file for later
+3. Copy the **Key** and **Secret** to a text file for later
 
 # Register Social Apps
 
@@ -39,13 +39,13 @@ You'll need to create applications for each of the social services you wish to u
 6. Input your *Callback URL* (url where your app will live)
 7. Select Read & Write for *Default Access type*
 8. Click `Save`
-9. Finally, copy the **Consumer Key** and **Consumer Secret** to a text file for later
+9. Finally, copy the **Key** and **Secret** to a text file for later
 
 ### 2. Register a new Facebook application
 
 1. [Go here](http://www.facebook.com/developers/createapp.php), name your app, agree to terms, and click `Create Application`
 2. Click **Connect** in the left column and add your *Connect URL* (url where your app will live), then click `Save Changes`
-3. Copy the **Application ID** and **Application Secret** to a text file for later
+3. Copy the **Application ID** and **Secret** to a text file for later
 
 ### 3. Register a new MySpace application
 
@@ -55,7 +55,7 @@ You'll need to create applications for each of the social services you wish to u
 4. Input your **External URL** (url where your app will live)
 5. Then input your **External Callback Validation** (url to your app + '/oauth_callback/myspace')
 6. Agree to the terms and click `Save`
-7. Scroll down to _OAuth Settings_ and copy the **Consumer Key** and **Consumer Secret** to a text file for later
+7. Scroll down to _OAuth Settings_ and copy the **Key** and **Secret** to a text file for later
 
 ### 4. Register a new Digg application
 
@@ -63,7 +63,7 @@ You'll need to create applications for each of the social services you wish to u
 2. [Go here](http://developers.digg.com/) and click `My Apps`
 3. Click `Create New App`
 4. Give your application a **Name** and **Description**
-5. Copy the **Api Key** and **Secret Key** to a text file for later.
+5. Copy the **Key** and **Secret** to a text file for later.
 6. Click `Save App`
 
 # Download
@@ -83,11 +83,11 @@ If you're looking for a decent text editor, try [TextMate](http://macromates.com
 ### 1. Update Authentication File
 
 1. Input the following into `config/auth.yml`
-2. SoundCloud **Consumer Key** and **Consumer Secret** into production > soundcloud > prokey & prosecret
-3. Twitter **Consumer Key** and **Consumer Secret** into production > twitter > prokey & prosecret
-4. Facebook **Application ID** and **Application Secret** into production > facebook > proappid & prosecret
-5. MySpace **Consumer Key** and **Consumer Secret** into production > myspace > prokey & prosecret
-6. Digg **Consumer Key** and **Consumer Secret** into production > digg > prokey & prosecret
+2. SoundCloud **Key** and **Secret** into production > soundcloud > prokey & prosecret
+3. Twitter *Key** and **Secret** into production > twitter > prokey & prosecret
+4. Facebook **Application ID** and **Secret** into production > facebook > proappid & prosecret
+5. MySpace **Key** and **Secret** into production > myspace > prokey & prosecret
+6. Digg **Key** and **Secret** into production > digg > prokey & prosecret
 
 ### 2. Update Settings File
 
