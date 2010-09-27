@@ -19,7 +19,9 @@ class UsersController < ApplicationController
       send_data csv_string, :type => 'text/csv; charset=iso-8859-1; header=present', :disposition => "attachment; filename=emails.csv"
       
     else
+      
       redirect_to login_path("soundcloud")
+      
     end
     
   end

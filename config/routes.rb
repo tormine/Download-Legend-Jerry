@@ -1,9 +1,10 @@
 ActionController::Routing::Routes.draw do |map|
-  map.resources :users
 
-  
+  map.resources :users  
   map.resource :session
   map.resources :posts
+  
+  map.export '/export', :controller => 'users', :action => 'index'
   
   map.activate '/activate', :controller => 'sessions', :action => 'new', :service => 'soundcloud'
   
