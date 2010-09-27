@@ -27,7 +27,7 @@ Windows: [Follow these instructions](http://wiki.rubyonrails.org/getting-started
 
 # Register Social Apps
 
-You'll need to create applications for each of the social services you wish to use on your promotion and copy the given **keys** and **secrets** for later. Current services are: Twitter, Facebook, and Digg
+You'll need to create applications for each of the social services you wish to use on your promotion and copy the given **keys** and **secrets** for later. Current services are: Twitter, Facebook, MySpace, and Digg
 
 ### 1. Register a new Twitter application
 
@@ -96,8 +96,9 @@ If you're looking for a decent text editor, try [TextMate](http://macromates.com
 3. Customize the player **params** as needed (You can view a full list of parameters [here](http://wiki.github.com/soundcloud/Widget-JS-API/widget-options))
 4. You can also set your player **type**, **height**, and **width**
 5. Next input the promotion **header** and **instructions**
-6. Adjust the comma separated list of **services** to reflect which 3rd party sites you'll be using.
-7. Adjust the default social language such as **button**, **header**, and **status** for each service being used.  
+6. Would you like to allow email submission as an alternative? **true** or **false**
+7. Adjust the comma separated list of **services** to reflect which 3rd party sites you'll be using.
+8. Adjust the default social language such as **button**, **header**, and **status** for each service being used.  
 
 # Customize CSS & Images
 
