@@ -136,6 +136,11 @@ To do this, visit **yourapp.com/activate** and login with the appropriate SoundC
 
 If you're using Digg, be sure to submit your campaign's url to [Digg.com](http://digg.com) so the app has something to Digg.
 
+# Export Submitted Emails
+
+1. Visit **yourapp.com/login/soundcloud** and login with the SoundCloud account that owns the track you are offering for download.
+2. Visit **yourapp.com/export** and you'll get a CSV dump of all submitted emails.
+
 # Tips and Tricks
 
 Coming Soon...
