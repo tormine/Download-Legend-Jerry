@@ -23,11 +23,11 @@ h1, h2 {
 h2 {
   margin: 0 0 10px 0; }
 
-object {
-  -webkit-box-shadow: 0 0 20px grey; }
-
 #logo {
   margin: 30px 0 20px 0; }
+
+#player object, #player img {
+  -webkit-box-shadow: 0 0 20px grey; }
 
 /* BUTTON */
 .button {
