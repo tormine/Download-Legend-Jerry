@@ -49,7 +49,7 @@ You'll need to create applications for each of the social services you wish to u
 
 ### 3. Register a new MySpace application
 
-1. [Go here](http://developer.myspace.com/modules/apps/pages/CreateAppAccount.aspx) and click `Create MySpaceID App`
+1. [Go here](http://developer.myspace.com/Apps.mvc) and click `Create MySpaceID App`
 2. Give your application a **Title**, agree to the terms, and click `Next`
 3. Add a short **Description** to your app and scroll down to _External Site Settings_
 4. Input your **External URL** (url where your app will live)
