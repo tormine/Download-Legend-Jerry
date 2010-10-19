@@ -70,7 +70,7 @@ You'll need to create applications for each of the social services you wish to u
 
 Clone the application on your local computer by running the following command in your Terminal emulator. (Terminal on Mac, Console on Windows)
 
-     git clone git@github.com:soundcloud/soundcloud-social-download.git project_name
+     git clone git://github.com/soundcloud/soundcloud-social-download.git project_name
 
 Now you're ready to do some configuring.
 
