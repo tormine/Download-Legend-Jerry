@@ -4,13 +4,6 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 Rails::Initializer.run do |config|
 
-  config.gem "haml"
-  config.gem "httparty"
-  config.gem "oauth"
-  config.gem "oauth2"
-  config.gem "rails-settings", :lib => "settings"
-  config.gem "fastercsv"
-
   config.time_zone = 'UTC'
   
 end
