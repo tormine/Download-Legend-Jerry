@@ -1,7 +1,0 @@
-rails -v 2.3.5
-haml
-httparty
-oauth
-oauth2
-rails-settings
-fastercsv
