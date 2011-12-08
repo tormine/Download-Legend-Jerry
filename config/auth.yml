@@ -55,18 +55,18 @@ test:
 production:
   
   soundcloud:
-    key: prokey
-    secret: prosecret
+    key: ae53a6edef7bd9dd064087f9139e9b9f
+    secret: 289adb90afc03d0133c99d0c787da711
     base_url: http://api.soundcloud.com
   
   twitter:
-    key: prokey
-    secret: prosecret
+    key: YllJhCC02DZ0e9Nk6SZpCg
+    secret: eDhm3IFDwtiBF6LfG3Q0HeQGGkjCSY3qe67vfGbkAsw
     base_url: https://twitter.com
   
   facebook:
-    app_id: proappid
-    secret: prosecret
+    app_id: 330395643652518
+    secret: d51bd824c60c03c26f6ada4d266eaf6f
     base_url: https://graph.facebook.com
     
   myspace:
